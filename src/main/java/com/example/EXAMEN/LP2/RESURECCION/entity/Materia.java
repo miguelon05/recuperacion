@@ -13,17 +13,12 @@ import lombok.NoArgsConstructor;
 @Builder
 @Entity
 @Table(name="MATERIAS")
-public class Materias {
+public class Materia {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "ID_MATERIA")
-    private Long idmaterias;
+    private Long id;
 
-    @Column(name = "MATERIA", nullable = false)
-    private String materia;
-
-    @ManyToOne
-    @JoinColumn(name = "ID_MATERIA", nullable = false, insertable = false, updatable = false)
-    private Estudiantes estudiante;
-
+    @Column(name = "MATERIA")
+    private String nombre;
 }

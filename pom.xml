@@ -9,18 +9,29 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
     <groupId>com.example</groupId>
-    <artifactId>repaso</artifactId>
+    <artifactId>examen</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>repaso</name>
+    <name>examen</name>
     <description>Demo project for Spring Boot</description>
-
+    <url/>
+    <licenses>
+        <license/>
+    </licenses>
+    <developers>
+        <developer/>
+    </developers>
+    <scm>
+        <connection/>
+        <developerConnection/>
+        <tag/>
+        <url/>
+    </scm>
     <properties>
         <java.version>21</java.version>
         <org.projectlombok.version>1.18.34</org.projectlombok.version>
         <org.mapstruct.version>1.6.0</org.mapstruct.version>
         <org.springdoc.version>2.5.0</org.springdoc.version>
     </properties>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

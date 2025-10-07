@@ -4,15 +4,17 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.math.BigDecimal;
 import java.util.List;
 
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-public class NotasDTO {
+public class EstudianteDTO {
     private Long id;
-    private Long idestudiantes;
-    private Long idmaterias;
-    private BigDecimal nota;
+    private String nombre;
+    private String apellido;
+    private String direccion;
+    private String telefono;
+    private List<NotaDTO> notas;
+
 }

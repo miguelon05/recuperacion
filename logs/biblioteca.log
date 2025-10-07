@@ -1,20 +1,20 @@
-2025-10-01T15:54:14.057-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 20356 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T15:54:14.059-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T15:54:15.388-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T15:54:15.494-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 88 ms. Found 3 JPA repository interfaces.
-2025-10-01T15:54:16.267-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T15:54:16.283-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T15:54:16.284-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T15:54:16.350-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T15:54:16.350-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2229 ms
-2025-10-01T15:54:16.765-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T15:54:16.849-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T15:54:16.897-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T15:54:17.276-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T15:54:17.311-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T15:54:17.944-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@315b4202
-2025-10-01T15:54:17.946-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T15:54:18.268-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+2025-10-07T09:34:05.942-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 10320 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
+2025-10-07T09:34:05.956-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-07T09:34:08.691-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-10-07T09:34:08.899-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 187 ms. Found 3 JPA repository interfaces.
+2025-10-07T09:34:10.320-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
+2025-10-07T09:34:10.356-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-07T09:34:10.358-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
+2025-10-07T09:34:10.539-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-10-07T09:34:10.541-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4449 ms
+2025-10-07T09:34:11.373-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-10-07T09:34:11.555-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
+2025-10-07T09:34:11.672-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-10-07T09:34:12.594-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-10-07T09:34:12.707-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-10-07T09:34:15.897-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@43deba42
+2025-10-07T09:34:15.899-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-10-07T09:34:16.434-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
 	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
 	Database driver: undefined/unknown
 	Database version: 21.3
@@ -22,26 +22,36 @@
 	Isolation level: undefined/unknown
 	Minimum pool size: undefined/unknown
 	Maximum pool size: undefined/unknown
-2025-10-01T15:54:18.481-05:00 ERROR 20356 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: Collection 'com.example.EXAMEN.LP2.RESURECCION.entity.Estudiantes.materias' is 'mappedBy' a property named 'estudiante' which does not exist in the target entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias'
-2025-10-01T15:54:18.482-05:00  WARN 20356 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'com.example.EXAMEN.LP2.RESURECCION.entity.Estudiantes.materias' is 'mappedBy' a property named 'estudiante' which does not exist in the target entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias'
-2025-10-01T15:54:18.483-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T15:54:18.568-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T15:54:18.572-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
-2025-10-01T15:54:18.583-05:00  INFO 20356 --- [EXAMEN-LP-2-RESURECCION] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+2025-10-07T09:34:17.659-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-10-07T09:34:20.661-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-10-07T09:34:22.300-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9090 (http) with context path '/'
+2025-10-07T09:34:22.312-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Started ExamenLp2ResureccionApplication in 17.858 seconds (process running for 19.408)
+2025-10-07T09:34:32.645-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-07T09:34:32.645-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-10-07T09:34:32.646-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-10-07T09:56:58.717-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-07T09:56:58.858-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-10-07T09:56:58.953-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-10-07T09:56:59.095-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-10-07T09:56:59.329-05:00  INFO 10320 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-10-07T10:31:50.209-05:00  INFO 31112 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 31112 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
+2025-10-07T10:31:50.212-05:00  INFO 31112 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-07T10:31:50.519-05:00  WARN 31112 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: I/O failure while processing configuration class [com.example.EXAMEN.LP2.RESURECCION.mappers.EstudiantesMapperImpl]
+2025-10-07T10:31:50.823-05:00 ERROR 31112 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
 
-Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
-2025-10-01T15:54:18.601-05:00 ERROR 20356 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
-
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Collection 'com.example.EXAMEN.LP2.RESURECCION.entity.Estudiantes.materias' is 'mappedBy' a property named 'estudiante' which does not exist in the target entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias'
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1826) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.11.jar:6.2.11]
+org.springframework.beans.factory.BeanDefinitionStoreException: I/O failure while processing configuration class [com.example.EXAMEN.LP2.RESURECCION.mappers.EstudiantesMapperImpl]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:286) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:218) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:354) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:281) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:204) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:172) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:418) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:290) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:349) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:118) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:791) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:609) ~[spring-context-6.2.11.jar:6.2.11]
 	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.6.jar:3.5.6]
 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.6.jar:3.5.6]
 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.6.jar:3.5.6]
@@ -49,71 +59,40 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.6.jar:3.5.6]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.6.jar:3.5.6]
 	at com.example.EXAMEN.LP2.RESURECCION.ExamenLp2ResureccionApplication.main(ExamenLp2ResureccionApplication.java:10) ~[classes/:na]
-Caused by: org.hibernate.AnnotationException: Collection 'com.example.EXAMEN.LP2.RESURECCION.entity.Estudiantes.materias' is 'mappedBy' a property named 'estudiante' which does not exist in the target entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias'
-	at org.hibernate.boot.model.internal.CollectionBinder.isReversePropertyInJoin(CollectionBinder.java:1638) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.model.internal.CollectionBinder.noAssociationTable(CollectionBinder.java:1652) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.model.internal.CollectionBinder.bindStarToManySecondPass(CollectionBinder.java:1613) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.model.internal.CollectionBinder$1.secondPass(CollectionBinder.java:1604) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.model.internal.CollectionSecondPass.doSecondPass(CollectionSecondPass.java:45) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.processSecondPasses(InFlightMetadataCollectorImpl.java:1842) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.processSecondPasses(InFlightMetadataCollectorImpl.java:1800) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:334) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1442) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1513) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1873) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1822) ~[spring-beans-6.2.11.jar:6.2.11]
-	... 15 common frames omitted
+Caused by: java.io.FileNotFoundException: class path resource [com/example/EXAMEN/LP2/RESURECCION/mappers/EstudiantesMapper.class] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:215) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.core.type.classreading.SimpleMetadataReader.getClassReader(SimpleMetadataReader.java:54) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.core.type.classreading.SimpleMetadataReader.<init>(SimpleMetadataReader.java:48) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:103) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.createMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:98) ~[spring-boot-3.5.6.jar:3.5.6]
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:85) ~[spring-boot-3.5.6.jar:3.5.6]
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:81) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:75) ~[spring-boot-3.5.6.jar:3.5.6]
+	at org.springframework.context.annotation.ConfigurationClassParser.asSourceClass(ConfigurationClassParser.java:711) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser$SourceClass.getInterfaces(ConfigurationClassParser.java:1060) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:441) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:385) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:281) ~[spring-context-6.2.11.jar:6.2.11]
+	... 18 common frames omitted
 
-2025-10-01T15:57:35.364-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 19080 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T15:57:35.366-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T15:57:36.472-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T15:57:36.573-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 88 ms. Found 3 JPA repository interfaces.
-2025-10-01T15:57:37.326-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T15:57:37.344-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T15:57:37.345-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T15:57:37.413-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T15:57:37.413-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1981 ms
-2025-10-01T15:57:37.865-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T15:57:37.934-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T15:57:37.979-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T15:57:38.370-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T15:57:38.409-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T15:57:38.912-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@1201e064
-2025-10-01T15:57:38.913-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T15:57:39.256-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 21.3
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-10-01T15:57:40.315-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-10-01T15:57:42.327-05:00 ERROR 19080 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id] in table [materias]
-2025-10-01T15:57:42.327-05:00  WARN 19080 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id] in table [materias]
-2025-10-01T15:57:42.328-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T15:57:42.349-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T15:57:42.351-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
-2025-10-01T15:57:42.362-05:00  INFO 19080 --- [EXAMEN-LP-2-RESURECCION] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+2025-10-07T10:38:06.470-05:00  INFO 23748 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 23748 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
+2025-10-07T10:38:06.474-05:00  INFO 23748 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-07T10:38:06.812-05:00  WARN 23748 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: I/O failure while processing configuration class [com.example.EXAMEN.LP2.RESURECCION.mappers.EstudiantesMapperImpl]
+2025-10-07T10:38:07.053-05:00 ERROR 23748 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
 
-Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
-2025-10-01T15:57:42.387-05:00 ERROR 19080 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
-
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id] in table [materias]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1826) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.11.jar:6.2.11]
+org.springframework.beans.factory.BeanDefinitionStoreException: I/O failure while processing configuration class [com.example.EXAMEN.LP2.RESURECCION.mappers.EstudiantesMapperImpl]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:286) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:218) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:354) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:281) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:204) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:172) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:418) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:290) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:349) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:118) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:791) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:609) ~[spring-context-6.2.11.jar:6.2.11]
 	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.6.jar:3.5.6]
 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.6.jar:3.5.6]
 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.6.jar:3.5.6]
@@ -121,76 +100,40 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.6.jar:3.5.6]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.6.jar:3.5.6]
 	at com.example.EXAMEN.LP2.RESURECCION.ExamenLp2ResureccionApplication.main(ExamenLp2ResureccionApplication.java:10) ~[classes/:na]
-Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id] in table [materias]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:431) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1873) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1822) ~[spring-beans-6.2.11.jar:6.2.11]
-	... 15 common frames omitted
-Caused by: org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id] in table [materias]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.validateTable(AbstractSchemaValidator.java:149) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.GroupedSchemaValidatorImpl.validateTables(GroupedSchemaValidatorImpl.java:46) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.performValidation(AbstractSchemaValidator.java:99) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.doValidation(AbstractSchemaValidator.java:77) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:289) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[na:na]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:324) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:463) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1517) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419) ~[spring-orm-6.2.11.jar:6.2.11]
-	... 19 common frames omitted
+Caused by: java.io.FileNotFoundException: class path resource [com/example/EXAMEN/LP2/RESURECCION/mappers/EstudiantesMapper.class] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:215) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.core.type.classreading.SimpleMetadataReader.getClassReader(SimpleMetadataReader.java:54) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.core.type.classreading.SimpleMetadataReader.<init>(SimpleMetadataReader.java:48) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:103) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.createMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:98) ~[spring-boot-3.5.6.jar:3.5.6]
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:85) ~[spring-boot-3.5.6.jar:3.5.6]
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:81) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:75) ~[spring-boot-3.5.6.jar:3.5.6]
+	at org.springframework.context.annotation.ConfigurationClassParser.asSourceClass(ConfigurationClassParser.java:711) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser$SourceClass.getInterfaces(ConfigurationClassParser.java:1060) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:441) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:385) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:281) ~[spring-context-6.2.11.jar:6.2.11]
+	... 18 common frames omitted
 
-2025-10-01T16:02:28.856-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 23392 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T16:02:28.860-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T16:02:29.964-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T16:02:30.052-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 76 ms. Found 3 JPA repository interfaces.
-2025-10-01T16:02:30.792-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T16:02:30.820-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T16:02:30.821-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T16:02:30.909-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T16:02:30.910-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1979 ms
-2025-10-01T16:02:31.358-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T16:02:31.423-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T16:02:31.462-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T16:02:31.882-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T16:02:31.918-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T16:02:32.423-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@77a2688d
-2025-10-01T16:02:32.425-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T16:02:32.756-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 21.3
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-10-01T16:02:33.179-05:00 ERROR 23392 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-2025-10-01T16:02:33.180-05:00  WARN 23392 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-2025-10-01T16:02:33.181-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T16:02:33.210-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T16:02:33.212-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
-2025-10-01T16:02:33.226-05:00  INFO 23392 --- [EXAMEN-LP-2-RESURECCION] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+2025-10-07T10:43:20.187-05:00  INFO 9112 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 9112 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
+2025-10-07T10:43:20.190-05:00  INFO 9112 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-07T10:43:20.503-05:00  WARN 9112 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: I/O failure while processing configuration class [com.example.EXAMEN.LP2.RESURECCION.mappers.EstudiantesMapperImpl]
+2025-10-07T10:43:20.752-05:00 ERROR 9112 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
 
-Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
-2025-10-01T16:02:33.254-05:00 ERROR 23392 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
-
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1826) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.11.jar:6.2.11]
+org.springframework.beans.factory.BeanDefinitionStoreException: I/O failure while processing configuration class [com.example.EXAMEN.LP2.RESURECCION.mappers.EstudiantesMapperImpl]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:286) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:218) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:354) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:281) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:204) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:172) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:418) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:290) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:349) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:118) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:791) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:609) ~[spring-context-6.2.11.jar:6.2.11]
 	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.6.jar:3.5.6]
 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.6.jar:3.5.6]
 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.6.jar:3.5.6]
@@ -198,520 +141,19 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.6.jar:3.5.6]
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.6.jar:3.5.6]
 	at com.example.EXAMEN.LP2.RESURECCION.ExamenLp2ResureccionApplication.main(ExamenLp2ResureccionApplication.java:10) ~[classes/:na]
-Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:431) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1873) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1822) ~[spring-beans-6.2.11.jar:6.2.11]
-	... 15 common frames omitted
-Caused by: org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-	at org.hibernate.mapping.Value.checkColumnDuplication(Value.java:196) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.MappingHelper.checkPropertyColumnDuplication(MappingHelper.java:251) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.PersistentClass.checkColumnDuplication(PersistentClass.java:941) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.PersistentClass.validate(PersistentClass.java:696) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.RootClass.validate(RootClass.java:286) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.MetadataImpl.validate(MetadataImpl.java:505) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:282) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:463) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1517) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419) ~[spring-orm-6.2.11.jar:6.2.11]
-	... 19 common frames omitted
-
-2025-10-01T16:03:58.082-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 15084 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T16:03:58.085-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T16:03:59.260-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T16:03:59.343-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 74 ms. Found 3 JPA repository interfaces.
-2025-10-01T16:04:00.083-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T16:04:00.099-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T16:04:00.099-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T16:04:00.163-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T16:04:00.163-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2013 ms
-2025-10-01T16:04:00.545-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T16:04:00.626-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T16:04:00.674-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T16:04:01.034-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T16:04:01.081-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T16:04:01.555-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@284d4885
-2025-10-01T16:04:01.558-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T16:04:01.888-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 21.3
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-10-01T16:04:02.237-05:00 ERROR 15084 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-2025-10-01T16:04:02.238-05:00  WARN 15084 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-2025-10-01T16:04:02.239-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T16:04:02.250-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T16:04:02.252-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
-2025-10-01T16:04:02.263-05:00  INFO 15084 --- [EXAMEN-LP-2-RESURECCION] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
-
-Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
-2025-10-01T16:04:02.282-05:00 ERROR 15084 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
-
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1826) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.6.jar:3.5.6]
-	at com.example.EXAMEN.LP2.RESURECCION.ExamenLp2ResureccionApplication.main(ExamenLp2ResureccionApplication.java:10) ~[classes/:na]
-Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:431) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1873) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1822) ~[spring-beans-6.2.11.jar:6.2.11]
-	... 15 common frames omitted
-Caused by: org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-	at org.hibernate.mapping.Value.checkColumnDuplication(Value.java:196) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.MappingHelper.checkPropertyColumnDuplication(MappingHelper.java:251) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.PersistentClass.checkColumnDuplication(PersistentClass.java:941) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.PersistentClass.validate(PersistentClass.java:696) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.RootClass.validate(RootClass.java:286) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.MetadataImpl.validate(MetadataImpl.java:505) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:282) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:463) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1517) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419) ~[spring-orm-6.2.11.jar:6.2.11]
-	... 19 common frames omitted
-
-2025-10-01T16:07:25.238-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 16672 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T16:07:25.241-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T16:07:26.333-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T16:07:26.429-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 85 ms. Found 3 JPA repository interfaces.
-2025-10-01T16:07:27.181-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T16:07:27.201-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T16:07:27.201-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T16:07:27.293-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T16:07:27.293-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1988 ms
-2025-10-01T16:07:27.766-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T16:07:27.852-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T16:07:27.904-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T16:07:28.297-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T16:07:28.332-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T16:07:28.885-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@44a93f8a
-2025-10-01T16:07:28.886-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T16:07:29.237-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 21.3
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-10-01T16:07:29.618-05:00 ERROR 16672 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-2025-10-01T16:07:29.619-05:00  WARN 16672 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-2025-10-01T16:07:29.620-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T16:07:29.682-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T16:07:29.685-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
-2025-10-01T16:07:29.705-05:00  INFO 16672 --- [EXAMEN-LP-2-RESURECCION] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
-
-Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
-2025-10-01T16:07:29.734-05:00 ERROR 16672 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
-
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1826) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.6.jar:3.5.6]
-	at com.example.EXAMEN.LP2.RESURECCION.ExamenLp2ResureccionApplication.main(ExamenLp2ResureccionApplication.java:10) ~[classes/:na]
-Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:431) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1873) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1822) ~[spring-beans-6.2.11.jar:6.2.11]
-	... 15 common frames omitted
-Caused by: org.hibernate.MappingException: Column 'id_materia' is duplicated in mapping for entity 'com.example.EXAMEN.LP2.RESURECCION.entity.Materias' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
-	at org.hibernate.mapping.Value.checkColumnDuplication(Value.java:196) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.MappingHelper.checkPropertyColumnDuplication(MappingHelper.java:251) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.PersistentClass.checkColumnDuplication(PersistentClass.java:941) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.PersistentClass.validate(PersistentClass.java:696) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.mapping.RootClass.validate(RootClass.java:286) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.MetadataImpl.validate(MetadataImpl.java:505) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:282) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:463) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1517) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419) ~[spring-orm-6.2.11.jar:6.2.11]
-	... 19 common frames omitted
-
-2025-10-01T16:08:46.703-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 21736 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T16:08:46.706-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T16:08:47.879-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T16:08:47.964-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 72 ms. Found 3 JPA repository interfaces.
-2025-10-01T16:08:48.668-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T16:08:48.697-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T16:08:48.698-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T16:08:48.810-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T16:08:48.811-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2043 ms
-2025-10-01T16:08:49.309-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T16:08:49.357-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T16:08:49.390-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T16:08:49.749-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T16:08:49.810-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T16:08:50.273-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@608b35fa
-2025-10-01T16:08:50.275-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T16:08:50.539-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 21.3
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-10-01T16:08:51.575-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-10-01T16:08:52.840-05:00 ERROR 21736 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing table [notas]
-2025-10-01T16:08:52.841-05:00  WARN 21736 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing table [notas]
-2025-10-01T16:08:52.841-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T16:08:52.858-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T16:08:52.861-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
-2025-10-01T16:08:52.873-05:00  INFO 21736 --- [EXAMEN-LP-2-RESURECCION] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
-
-Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
-2025-10-01T16:08:52.893-05:00 ERROR 21736 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
-
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing table [notas]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1826) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.6.jar:3.5.6]
-	at com.example.EXAMEN.LP2.RESURECCION.ExamenLp2ResureccionApplication.main(ExamenLp2ResureccionApplication.java:10) ~[classes/:na]
-Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing table [notas]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:431) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1873) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1822) ~[spring-beans-6.2.11.jar:6.2.11]
-	... 15 common frames omitted
-Caused by: org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing table [notas]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.validateTable(AbstractSchemaValidator.java:136) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.GroupedSchemaValidatorImpl.validateTables(GroupedSchemaValidatorImpl.java:46) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.performValidation(AbstractSchemaValidator.java:99) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.doValidation(AbstractSchemaValidator.java:77) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:289) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[na:na]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:324) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:463) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1517) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419) ~[spring-orm-6.2.11.jar:6.2.11]
-	... 19 common frames omitted
-
-2025-10-01T16:11:07.938-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 8368 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T16:11:07.943-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T16:11:09.206-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T16:11:09.291-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 75 ms. Found 3 JPA repository interfaces.
-2025-10-01T16:11:10.028-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T16:11:10.056-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T16:11:10.057-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T16:11:10.157-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T16:11:10.157-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2137 ms
-2025-10-01T16:11:10.765-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T16:11:10.862-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T16:11:10.905-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T16:11:11.311-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T16:11:11.345-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T16:11:11.926-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@44a93f8a
-2025-10-01T16:11:11.930-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T16:11:12.281-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 21.3
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-10-01T16:11:13.384-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-10-01T16:11:13.650-05:00 ERROR 8368 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id_nota] in table [notas]
-2025-10-01T16:11:13.651-05:00  WARN 8368 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id_nota] in table [notas]
-2025-10-01T16:11:13.652-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T16:11:13.663-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T16:11:13.667-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
-2025-10-01T16:11:13.679-05:00  INFO 8368 --- [EXAMEN-LP-2-RESURECCION] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
-
-Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
-2025-10-01T16:11:13.698-05:00 ERROR 8368 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
-
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id_nota] in table [notas]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1826) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.6.jar:3.5.6]
-	at com.example.EXAMEN.LP2.RESURECCION.ExamenLp2ResureccionApplication.main(ExamenLp2ResureccionApplication.java:10) ~[classes/:na]
-Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id_nota] in table [notas]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:431) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1873) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1822) ~[spring-beans-6.2.11.jar:6.2.11]
-	... 15 common frames omitted
-Caused by: org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id_nota] in table [notas]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.validateTable(AbstractSchemaValidator.java:149) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.GroupedSchemaValidatorImpl.validateTables(GroupedSchemaValidatorImpl.java:46) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.performValidation(AbstractSchemaValidator.java:99) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.doValidation(AbstractSchemaValidator.java:77) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:289) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[na:na]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:324) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:463) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1517) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419) ~[spring-orm-6.2.11.jar:6.2.11]
-	... 19 common frames omitted
-
-2025-10-01T16:12:50.478-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 24856 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T16:12:50.481-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T16:12:51.597-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T16:12:51.676-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 68 ms. Found 3 JPA repository interfaces.
-2025-10-01T16:12:52.359-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T16:12:52.377-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T16:12:52.377-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T16:12:52.465-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T16:12:52.465-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1914 ms
-2025-10-01T16:12:52.907-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T16:12:52.950-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T16:12:52.982-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T16:12:53.364-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T16:12:53.400-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T16:12:53.825-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4dd1d2bb
-2025-10-01T16:12:53.827-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T16:12:54.098-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 21.3
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-10-01T16:12:55.041-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-10-01T16:12:55.196-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-10-01T16:12:56.443-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9090 (http) with context path '/'
-2025-10-01T16:12:56.453-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Started ExamenLp2ResureccionApplication in 6.528 seconds (process running for 6.96)
-2025-10-01T16:13:13.861-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-10-01T16:13:13.861-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2025-10-01T16:13:13.863-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
-2025-10-01T16:13:13.894-05:00  WARN 24856 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-1] o.s.web.servlet.PageNotFound             : No mapping for GET /
-2025-10-01T16:13:14.485-05:00  WARN 24856 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-2] o.s.web.servlet.PageNotFound             : No mapping for GET /favicon.ico
-2025-10-01T16:19:57.310-05:00  WARN 24856 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-9] o.h.p.entity.AbstractEntityPersister     : HHH000502: The [estudiante] property of the [com.example.EXAMEN.LP2.RESURECCION.entity.Materias] entity was modified, but it won't be updated because the property is immutable.
-2025-10-01T16:34:35.253-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-10-01T16:34:35.310-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-10-01T16:34:35.360-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-10-01T16:34:35.405-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T16:34:35.566-05:00  INFO 24856 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T16:34:43.497-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 22080 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T16:34:43.499-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T16:34:44.577-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T16:34:44.660-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 68 ms. Found 3 JPA repository interfaces.
-2025-10-01T16:34:45.364-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T16:34:45.380-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T16:34:45.380-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T16:34:45.438-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T16:34:45.439-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1891 ms
-2025-10-01T16:34:45.798-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T16:34:45.890-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T16:34:45.933-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T16:34:46.321-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T16:34:46.355-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T16:34:47.193-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@3dde5f38
-2025-10-01T16:34:47.195-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T16:34:47.564-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 21.3
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-10-01T16:34:48.709-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-10-01T16:34:49.001-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-10-01T16:34:50.198-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9090 (http) with context path '/'
-2025-10-01T16:34:50.209-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Started ExamenLp2ResureccionApplication in 7.409 seconds (process running for 8.016)
-2025-10-01T16:35:00.664-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-10-01T16:35:00.665-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2025-10-01T16:35:00.667-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
-2025-10-01T16:35:32.958-05:00  WARN 22080 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-5] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Error: 2291, SQLState: 23000
-2025-10-01T16:35:32.959-05:00 ERROR 22080 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-5] o.h.engine.jdbc.spi.SqlExceptionHelper   : ORA-02291: restricción de integridad (EXAMEN.FK_NOTAS_EST) violada - clave principal no encontrada
-
-https://docs.oracle.com/error-help/db/ora-02291/
-2025-10-01T16:38:34.453-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-10-01T16:38:34.465-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-10-01T16:38:34.472-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-10-01T16:38:34.477-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T16:38:34.503-05:00  INFO 22080 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T16:38:38.803-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 14676 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T16:38:38.805-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T16:38:39.868-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T16:38:39.943-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 65 ms. Found 3 JPA repository interfaces.
-2025-10-01T16:38:40.599-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T16:38:40.618-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T16:38:40.618-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T16:38:40.699-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T16:38:40.700-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1821 ms
-2025-10-01T16:38:41.169-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T16:38:41.235-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T16:38:41.276-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T16:38:41.624-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T16:38:41.664-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T16:38:42.151-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@284d4885
-2025-10-01T16:38:42.153-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T16:38:42.491-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 21.3
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-10-01T16:38:43.541-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-10-01T16:38:43.772-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-10-01T16:38:44.981-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9090 (http) with context path '/'
-2025-10-01T16:38:44.992-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Started ExamenLp2ResureccionApplication in 6.786 seconds (process running for 7.276)
-2025-10-01T16:38:56.095-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-10-01T16:38:56.095-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2025-10-01T16:38:56.097-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
-2025-10-01T16:43:24.705-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-10-01T16:43:24.764-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-10-01T16:43:24.840-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-10-01T16:43:24.892-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T16:43:24.954-05:00  INFO 14676 --- [EXAMEN-LP-2-RESURECCION] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T16:43:37.317-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : Starting ExamenLp2ResureccionApplication using Java 21.0.7 with PID 8772 (C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION\target\classes started by mygna in C:\Users\mygna\OneDrive\Escritorio\EXAMEN-LP-2-RESURECCION)
-2025-10-01T16:43:37.320-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] .e.E.L.R.ExamenLp2ResureccionApplication : No active profile set, falling back to 1 default profile: "default"
-2025-10-01T16:43:38.657-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-10-01T16:43:38.754-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 83 ms. Found 3 JPA repository interfaces.
-2025-10-01T16:43:39.520-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
-2025-10-01T16:43:39.542-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-10-01T16:43:39.543-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
-2025-10-01T16:43:39.631-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2025-10-01T16:43:39.631-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2248 ms
-2025-10-01T16:43:40.237-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-10-01T16:43:40.314-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.29.Final
-2025-10-01T16:43:40.356-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-10-01T16:43:40.729-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-10-01T16:43:40.767-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-10-01T16:43:41.328-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@4dd1d2bb
-2025-10-01T16:43:41.330-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-10-01T16:43:41.667-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 21.3
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-10-01T16:43:42.917-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-10-01T16:43:43.273-05:00 ERROR 8772 --- [EXAMEN-LP-2-RESURECCION] [main] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id_estudiante] in table [materias]
-2025-10-01T16:43:43.274-05:00  WARN 8772 --- [EXAMEN-LP-2-RESURECCION] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id_estudiante] in table [materias]
-2025-10-01T16:43:43.274-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-10-01T16:43:43.287-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-10-01T16:43:43.292-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
-2025-10-01T16:43:43.305-05:00  INFO 8772 --- [EXAMEN-LP-2-RESURECCION] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
-
-Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
-2025-10-01T16:43:43.326-05:00 ERROR 8772 --- [EXAMEN-LP-2-RESURECCION] [main] o.s.boot.SpringApplication               : Application run failed
-
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id_estudiante] in table [materias]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1826) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.11.jar:6.2.11]
-	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.6.jar:3.5.6]
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.6.jar:3.5.6]
-	at com.example.EXAMEN.LP2.RESURECCION.ExamenLp2ResureccionApplication.main(ExamenLp2ResureccionApplication.java:10) ~[classes/:na]
-Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id_estudiante] in table [materias]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:431) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:400) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:366) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1873) ~[spring-beans-6.2.11.jar:6.2.11]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1822) ~[spring-beans-6.2.11.jar:6.2.11]
-	... 15 common frames omitted
-Caused by: org.hibernate.tool.schema.spi.SchemaManagementException: Schema-validation: missing column [id_estudiante] in table [materias]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.validateTable(AbstractSchemaValidator.java:149) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.GroupedSchemaValidatorImpl.validateTables(GroupedSchemaValidatorImpl.java:46) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.performValidation(AbstractSchemaValidator.java:99) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.doValidation(AbstractSchemaValidator.java:77) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:289) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:144) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[na:na]
-	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:141) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:324) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:463) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1517) ~[hibernate-core-6.6.29.Final.jar:6.6.29.Final]
-	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390) ~[spring-orm-6.2.11.jar:6.2.11]
-	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:419) ~[spring-orm-6.2.11.jar:6.2.11]
-	... 19 common frames omitted
+Caused by: java.io.FileNotFoundException: class path resource [com/example/EXAMEN/LP2/RESURECCION/mappers/EstudiantesMapper.class] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:215) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.core.type.classreading.SimpleMetadataReader.getClassReader(SimpleMetadataReader.java:54) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.core.type.classreading.SimpleMetadataReader.<init>(SimpleMetadataReader.java:48) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:103) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.createMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:98) ~[spring-boot-3.5.6.jar:3.5.6]
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:85) ~[spring-boot-3.5.6.jar:3.5.6]
+	at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader(SimpleMetadataReaderFactory.java:81) ~[spring-core-6.2.11.jar:6.2.11]
+	at org.springframework.boot.type.classreading.ConcurrentReferenceCachingMetadataReaderFactory.getMetadataReader(ConcurrentReferenceCachingMetadataReaderFactory.java:75) ~[spring-boot-3.5.6.jar:3.5.6]
+	at org.springframework.context.annotation.ConfigurationClassParser.asSourceClass(ConfigurationClassParser.java:711) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser$SourceClass.getInterfaces(ConfigurationClassParser.java:1060) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.processInterfaces(ConfigurationClassParser.java:441) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:385) ~[spring-context-6.2.11.jar:6.2.11]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:281) ~[spring-context-6.2.11.jar:6.2.11]
+	... 18 common frames omitted
 

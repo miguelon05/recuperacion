@@ -14,20 +14,20 @@ import java.math.BigDecimal;
 @Builder
 @Entity
 @Table(name="NOTAS")
-public class Notas {
+public class Nota {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "ID_NOTAS")
     private Long id;
 
-    @ManyToOne
-    @JoinColumn(name = "ID_ESTUDIANTE", nullable = false)
-    private Estudiantes estudiante;
+    @Column(name = "NOTA")
+    private BigDecimal calificacion;
 
-    @ManyToOne
-    @JoinColumn(name = "ID_MATERIA", nullable = false)
-    private Materias materia;
+    @ManyToOne(fetch = FetchType.LAZY, optional = false)
+    @JoinColumn(name = "ID_ESTUDIANTE")
+    private Estudiante estudiante;
 
-    @Column(name = "NOTA", nullable = false)
-    private BigDecimal nota;
+    @ManyToOne(fetch = FetchType.LAZY, optional = false)
+    @JoinColumn(name = "ID_MATERIA")
+    private Materia materia;
 }
